@@ -1,7 +1,7 @@
 const contractAddress = "0x965254A4CD37F4ecc7135afaa4e5A4351ABA5A74"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome - Home of DadLifeNFT";
+const welcome_h1 = "Welcome - Home of Dad Life";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = "DadLife is a collection of 2500 unique dads. Your dad will help support single parent families - a portion of profits will be donated to Single Parent Advocate. Owning a dad will grant whitelist access to future NFT collections in partnership with DadLife. All our dad's lives are cool, but some are cooler.";
 const h1_presale_coming_soon = "Dads Coming Soon!!";
